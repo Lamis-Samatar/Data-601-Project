@@ -1,0 +1,8 @@
+﻿Introduction
+Cancer remains one of the most pressing global health challenges, with early detection and effective treatment being critical to improving patient outcomes and survival rates. This project aims to investigate patterns and trends in cancer patient data to identify key factors influencing survival, tumor progression, and treatment responses. By employing advanced data visualization techniques, we aim to uncover insights that can inform clinical decision-making and contribute to the broader field of medical data analysis.
+Our study leverages a comprehensive cancer dataset that includes demographic, clinical, and pathological information. This dataset offers an opportunity to explore complex relationships among variables such as tumor characteristics, survival outcomes, and hormone receptor statuses. Through a systematic analysis, we seek to enhance our understanding of cancer progression and provide evidence-based recommendations for improving patient care.
+
+
+Guiding Questions
+1. What are the demographic factors (e.g., age, race, and marital status) associated with higher survival rates?
+2. How do tumor characteristics such as size, grade, and hormone receptor status correlate with survival outcomes?
