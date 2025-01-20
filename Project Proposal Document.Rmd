@@ -1,6 +1,6 @@
 ---
 title: "Project Proposal"
-author: "Gautham Nagaraj, Romith Bodanda, Lamis"
+author: "Gautham Nagaraj, Romith Bodanda, Lamis Samatar"
 date: "2025-01-20"
 output: pdf_document
 ---
